@@ -12,3 +12,9 @@ html{
 	background: #000;
 	color: #fff;
 }
+h1{
+	color: gold;
+	font-weight: 700;
+	font-size: 3rem;
+	text-shadow: 4px 4px 2px #fff;
+}
